@@ -28,7 +28,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Nama "
-                android:textStyle="bold" />
+                android:textStyle="italic" />
 
             <TextView
                 android:id="@+id/list_peminatan"
